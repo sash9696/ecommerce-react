@@ -47,7 +47,7 @@ function Login() {
                     id="email"
                   />
                 </div>
-                <div className="input-group">
+                {/* <div className="input-group">
                   <input
                     type="submit"
                     className="form-control btn btn-primary"
@@ -58,7 +58,7 @@ function Login() {
                   {showSignup
                     ? "Already have and Account? Login"
                     : "Dont have an account? Sign up"}
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
