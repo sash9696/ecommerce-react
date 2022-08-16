@@ -31,7 +31,7 @@ function Login() {
                     id="username"
                   />
                 </div>
-                <div className="input-group">
+                {/* <div className="input-group">
                   <input
                     type="password"
                     className="form-control"
@@ -46,7 +46,7 @@ function Login() {
                     placeholder="email"
                     id="email"
                   />
-                </div>
+                </div> */}
                 {/* <div className="input-group">
                   <input
                     type="submit"
